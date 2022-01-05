@@ -4,7 +4,7 @@ function Extra(props) {
   return (
     <div>
       <div className="Extra card">
-        <h2 className="headerStrip">Extracurricula Experiences</h2>
+        <h2 className="headerStrip">Extracurricula</h2>
         <div className="content">
           <div className="job">
             <div className="title">Volunteer work for Sea Cadets</div>
