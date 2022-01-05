@@ -1,0 +1,39 @@
+@font-face {
+  font-family: "sunny";
+  src: url("sunny2.woff2") format("woff2"), url("sunny1.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "rust-basic";
+  src: url("rust-basic2.woff2") format("woff2"), url("rust-basic1.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "rust-block";
+  src: url("rust-block2.woff2") format("woff2"), url("rust-block1.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "rust-script";
+  src: url("rust-script2.woff2") format("woff2"), url("rust-script1.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "proxima";
+  src: url("proxima.ttf") format("truetype");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "proxima";
+  src: url("proximaBold.woff") format("woff");
+  font-weight: bold;
+}
