@@ -1,5 +1,11 @@
+import Page from "./components/Page";
+
 function App() {
-  return <div className="App">Hello World</div>;
+  return (
+    <div className="App">
+      <Page />
+    </div>
+  );
 }
 
 export default App;
