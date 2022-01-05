@@ -10,6 +10,7 @@ import Portfolio from "./Portfolio";
 import Skills from "./Skills";
 import Education from "./Education";
 import Extra from "./Extra";
+import Hobbies from "./Hobbies";
 
 class Page extends Component {
   render() {
@@ -27,6 +28,7 @@ class Page extends Component {
             <Skills />
             <Education />
             <Extra />
+            <Hobbies />
           </div>
         </div>
       </div>
